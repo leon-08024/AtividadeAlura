@@ -1,0 +1,14 @@
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\bin\Debug\net8.0\Projetoalura1c#.exe
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\bin\Debug\net8.0\Projetoalura1c#.deps.json
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\bin\Debug\net8.0\Projetoalura1c#.runtimeconfig.json
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\bin\Debug\net8.0\Projetoalura1c#.dll
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\bin\Debug\net8.0\Projetoalura1c#.pdb
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\Projetoalura1c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\Projetoalura1c#.AssemblyInfoInputs.cache
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\Projetoalura1c#.AssemblyInfo.cs
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\Projetoalura1c#.csproj.CoreCompileInputs.cache
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\Projetoalura1c#.dll
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\refint\Projetoalura1c#.dll
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\Projetoalura1c#.pdb
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\Projetoalura1c#.genruntimeconfig.cache
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\ref\Projetoalura1c#.dll

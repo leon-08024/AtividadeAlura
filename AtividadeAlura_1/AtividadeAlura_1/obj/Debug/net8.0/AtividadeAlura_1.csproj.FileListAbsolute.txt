@@ -1,0 +1,14 @@
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\bin\Debug\net8.0\AtividadeAlura_1.exe
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\bin\Debug\net8.0\AtividadeAlura_1.deps.json
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\bin\Debug\net8.0\AtividadeAlura_1.runtimeconfig.json
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\bin\Debug\net8.0\AtividadeAlura_1.dll
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\bin\Debug\net8.0\AtividadeAlura_1.pdb
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\obj\Debug\net8.0\AtividadeAlura_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\obj\Debug\net8.0\AtividadeAlura_1.AssemblyInfoInputs.cache
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\obj\Debug\net8.0\AtividadeAlura_1.AssemblyInfo.cs
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\obj\Debug\net8.0\AtividadeAlura_1.csproj.CoreCompileInputs.cache
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\obj\Debug\net8.0\AtividadeAlura_1.dll
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\obj\Debug\net8.0\refint\AtividadeAlura_1.dll
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\obj\Debug\net8.0\AtividadeAlura_1.pdb
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\obj\Debug\net8.0\AtividadeAlura_1.genruntimeconfig.cache
+C:\Users\cauec\source\repos\AtividadeAlura_1\AtividadeAlura_1\obj\Debug\net8.0\ref\AtividadeAlura_1.dll

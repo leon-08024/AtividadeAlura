@@ -1,0 +1,14 @@
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\bin\Debug\net8.0\Atividadealura_2.exe
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\bin\Debug\net8.0\Atividadealura_2.deps.json
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\bin\Debug\net8.0\Atividadealura_2.runtimeconfig.json
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\bin\Debug\net8.0\Atividadealura_2.dll
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\bin\Debug\net8.0\Atividadealura_2.pdb
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\obj\Debug\net8.0\Atividadealura_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\obj\Debug\net8.0\Atividadealura_2.AssemblyInfoInputs.cache
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\obj\Debug\net8.0\Atividadealura_2.AssemblyInfo.cs
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\obj\Debug\net8.0\Atividadealura_2.csproj.CoreCompileInputs.cache
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\obj\Debug\net8.0\Atividadealura_2.dll
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\obj\Debug\net8.0\refint\Atividadealura_2.dll
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\obj\Debug\net8.0\Atividadealura_2.pdb
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\obj\Debug\net8.0\Atividadealura_2.genruntimeconfig.cache
+C:\Users\cauec\source\repos\Atividadealura_2\Atividadealura_2\obj\Debug\net8.0\ref\Atividadealura_2.dll

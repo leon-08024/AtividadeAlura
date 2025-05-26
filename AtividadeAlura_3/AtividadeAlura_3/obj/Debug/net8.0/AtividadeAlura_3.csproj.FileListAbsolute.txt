@@ -1,0 +1,4 @@
+C:\Users\cauec\source\repos\AtividadeAlura_3\AtividadeAlura_3\obj\Debug\net8.0\AtividadeAlura_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauec\source\repos\AtividadeAlura_3\AtividadeAlura_3\obj\Debug\net8.0\AtividadeAlura_3.AssemblyInfoInputs.cache
+C:\Users\cauec\source\repos\AtividadeAlura_3\AtividadeAlura_3\obj\Debug\net8.0\AtividadeAlura_3.AssemblyInfo.cs
+C:\Users\cauec\source\repos\AtividadeAlura_3\AtividadeAlura_3\obj\Debug\net8.0\AtividadeAlura_3.csproj.CoreCompileInputs.cache

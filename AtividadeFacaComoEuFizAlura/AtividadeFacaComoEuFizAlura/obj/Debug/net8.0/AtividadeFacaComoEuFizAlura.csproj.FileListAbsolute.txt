@@ -1,0 +1,14 @@
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura.AssemblyInfoInputs.cache
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura.AssemblyInfo.cs
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura.csproj.CoreCompileInputs.cache
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\bin\Debug\net8.0\AtividadeFacaComoEuFizAlura.exe
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\bin\Debug\net8.0\AtividadeFacaComoEuFizAlura.deps.json
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\bin\Debug\net8.0\AtividadeFacaComoEuFizAlura.runtimeconfig.json
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\bin\Debug\net8.0\AtividadeFacaComoEuFizAlura.dll
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\bin\Debug\net8.0\AtividadeFacaComoEuFizAlura.pdb
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura.dll
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\obj\Debug\net8.0\refint\AtividadeFacaComoEuFizAlura.dll
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura.pdb
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura.genruntimeconfig.cache
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura\AtividadeFacaComoEuFizAlura\obj\Debug\net8.0\ref\AtividadeFacaComoEuFizAlura.dll
