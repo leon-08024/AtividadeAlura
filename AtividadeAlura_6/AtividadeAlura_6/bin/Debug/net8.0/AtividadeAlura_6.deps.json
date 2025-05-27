@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AtividadeAlura_6/1.0.0": {
+        "runtime": {
+          "AtividadeAlura_6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtividadeAlura_6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

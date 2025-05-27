@@ -12,3 +12,4 @@ C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\ref
 C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\Projetoalura1c#.pdb
 C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\Projetoalura1c#.genruntimeconfig.cache
 C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\ref\Projetoalura1c#.dll
+C:\Users\cauec\source\repos\Projetoalura1c#\Projetoalura1c#\obj\Debug\net8.0\Projetoalura1c#.sourcelink.json

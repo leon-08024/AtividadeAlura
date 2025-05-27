@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeFacaComoEuFizAlura_2", "AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2.csproj", "{97D85860-CE7B-4671-9D06-38B8F1607294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D85860-CE7B-4671-9D06-38B8F1607294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D85860-CE7B-4671-9D06-38B8F1607294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D85860-CE7B-4671-9D06-38B8F1607294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D85860-CE7B-4671-9D06-38B8F1607294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {439F56C4-33A5-45C5-99C8-9569A597F138}
+	EndGlobalSection
+EndGlobal

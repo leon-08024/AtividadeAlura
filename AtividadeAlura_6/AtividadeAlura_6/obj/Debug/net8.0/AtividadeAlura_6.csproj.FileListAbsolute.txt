@@ -1,0 +1,15 @@
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\obj\Debug\net8.0\AtividadeAlura_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\obj\Debug\net8.0\AtividadeAlura_6.AssemblyInfoInputs.cache
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\obj\Debug\net8.0\AtividadeAlura_6.AssemblyInfo.cs
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\obj\Debug\net8.0\AtividadeAlura_6.csproj.CoreCompileInputs.cache
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\obj\Debug\net8.0\AtividadeAlura_6.sourcelink.json
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\bin\Debug\net8.0\AtividadeAlura_6.exe
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\bin\Debug\net8.0\AtividadeAlura_6.deps.json
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\bin\Debug\net8.0\AtividadeAlura_6.runtimeconfig.json
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\bin\Debug\net8.0\AtividadeAlura_6.dll
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\bin\Debug\net8.0\AtividadeAlura_6.pdb
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\obj\Debug\net8.0\AtividadeAlura_6.dll
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\obj\Debug\net8.0\refint\AtividadeAlura_6.dll
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\obj\Debug\net8.0\AtividadeAlura_6.pdb
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\obj\Debug\net8.0\AtividadeAlura_6.genruntimeconfig.cache
+C:\Users\cauec\source\repos\AtividadeAlura_6\AtividadeAlura_6\obj\Debug\net8.0\ref\AtividadeAlura_6.dll

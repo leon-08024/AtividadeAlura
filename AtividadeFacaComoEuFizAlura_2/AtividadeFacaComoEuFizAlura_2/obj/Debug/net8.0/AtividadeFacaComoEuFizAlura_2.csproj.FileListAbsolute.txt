@@ -1,0 +1,15 @@
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\bin\Debug\net8.0\AtividadeFacaComoEuFizAlura_2.exe
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\bin\Debug\net8.0\AtividadeFacaComoEuFizAlura_2.deps.json
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\bin\Debug\net8.0\AtividadeFacaComoEuFizAlura_2.runtimeconfig.json
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\bin\Debug\net8.0\AtividadeFacaComoEuFizAlura_2.dll
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\bin\Debug\net8.0\AtividadeFacaComoEuFizAlura_2.pdb
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura_2.AssemblyInfoInputs.cache
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura_2.AssemblyInfo.cs
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura_2.csproj.CoreCompileInputs.cache
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura_2.sourcelink.json
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura_2.dll
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\obj\Debug\net8.0\refint\AtividadeFacaComoEuFizAlura_2.dll
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura_2.pdb
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\obj\Debug\net8.0\AtividadeFacaComoEuFizAlura_2.genruntimeconfig.cache
+C:\Users\cauec\source\repos\AtividadeFacaComoEuFizAlura_2\AtividadeFacaComoEuFizAlura_2\obj\Debug\net8.0\ref\AtividadeFacaComoEuFizAlura_2.dll
