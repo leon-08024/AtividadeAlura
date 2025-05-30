@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\cauec\\source\\repos\\Projetoalura1c#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF75B3AB-8245-4485-81FD-EC70FF4BB4BA}|Projetoalura1c#\\Projetoalura1c#.csproj|c:\\users\\cauec\\source\\repos\\projetoalura1c#\\projetoalura1c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF75B3AB-8245-4485-81FD-EC70FF4BB4BA}|Projetoalura1c#\\Projetoalura1c#.csproj|solutionrelative:projetoalura1c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cauec\\source\\repos\\Projetoalura1c#\\Projetoalura1c#\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projetoalura1c#\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "Projetoalura1c#\\Program.cs",
               "ToolTip": "C:\\Users\\cauec\\source\\repos\\Projetoalura1c#\\Projetoalura1c#\\Program.cs",
               "RelativeToolTip": "Projetoalura1c#\\Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAJwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T20:28:32.878Z",
+              "WhenOpened": "2025-05-30T19:58:28.068Z",
               "EditorCaption": ""
             }
           ]

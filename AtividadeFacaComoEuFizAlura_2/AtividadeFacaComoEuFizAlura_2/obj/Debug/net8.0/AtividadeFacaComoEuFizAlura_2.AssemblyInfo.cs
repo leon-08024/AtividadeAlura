@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtividadeFacaComoEuFizAlura_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5550900098c8d003577e5e16113c10494aeec542")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b7ba63de19d23b20c60b795c47f305f4a0ed674")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtividadeFacaComoEuFizAlura_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtividadeFacaComoEuFizAlura_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

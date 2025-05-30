@@ -4,10 +4,18 @@ using System.Numerics;
 
 string mendsagemDeBoasVindas = "Boas Vindas ao Screen Sound";
 
-// List<string> listaDasBandas = new List<string> { "U2","The Beatles","Calipso","Metallica", "AC/DC", "Iron Maiden", "Guns N' Roses", "Led Zeppelin" }; 
+// List<string> listaDasBandas = new List<string> {Calipso","Metallica", "AC/DC", "Iron Maiden", "Guns N' Roses", "Led Zeppelin" }; 
 Dictionary<string,List<int>> bandasRegistradas = new Dictionary<string,List<int>>();
 bandasRegistradas.Add("Linkin Park", new List<int> { 10, 8, 6 });
-bandasRegistradas.Add("Beatles", new List<int>());
+bandasRegistradas.Add("Beatles", new List<int> { 9, 8, 3 });
+bandasRegistradas.Add("U2", new List<int>{ 7, 6 ,7});
+bandasRegistradas.Add("Calipso", new List<int> { 9, 8, 8 });
+bandasRegistradas.Add("Metallica", new List<int>{10, 8, 6});
+bandasRegistradas.Add("AC/DC", new List<int> { 9, 8, 6 });
+bandasRegistradas.Add("Iron Maiden", new List<int> { 10, 8, 7 });
+bandasRegistradas.Add("Guns N' Roses", new List<int>{8, 8, 7});
+bandasRegistradas.Add("Led Zeppelin", new List<int> { 9, 7, 7 });
+bandasRegistradas.Add("Slipknot", new List<int>{10, 10, 10});
 
 
 static void ExibirLogo(string mendsagemDeBoasVindas)
@@ -55,7 +63,7 @@ void ExbirOpcoesDoMenu()
             AvaliarUmaBanda();
             break;
         case 4:
-            Console.WriteLine("Voce escolheu a opcao " + opcaoEscolhidaNumerica);
+            MostraMediaBanda();
             break;
         case -1:
             Console.WriteLine("Tchau Tchau :) ");
@@ -143,7 +151,36 @@ void ExbirOpcoesDoMenu()
 
     }
 
-    void ExibirTituloDaOpcao(string titulo)
+    void MostraMediaBanda()
+    {
+        Console.Clear();
+        Console.WriteLine("Digite a Banda que deseja ver a media:");
+        string nomeDaBanda = Console.ReadLine()!;
+        if (bandasRegistradas.ContainsKey(nomeDaBanda))
+        {
+            List<int> notas = bandasRegistradas[nomeDaBanda];
+            double media = notas.Average();
+            Console.WriteLine($"A média da {nomeDaBanda} é: {media}");
+            Console.WriteLine("\ndigite qualquer tecla para voltar para o menu principal");
+            Console.ReadKey();
+            Console.Clear();
+            ExbirOpcoesDoMenu();
+        }
+        else 
+        
+        {
+            Console.WriteLine($"\nA banda {nomeDaBanda} nao foi encontrada");
+            Console.WriteLine("\ndigite qualquer tecla para voltar para o menu principal");
+            Console.ReadKey();
+            Console.Clear();
+            ExbirOpcoesDoMenu();
+
+        }
+
+
+    }
+
+void ExibirTituloDaOpcao(string titulo)
     {
         //verifica a quantidade de caracteres no titulo e os tranforma em um int
         // e depois os astericos sao adicionados pela esquerda dependendo da quantidade de letras do titulo
