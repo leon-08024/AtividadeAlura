@@ -1,0 +1,15 @@
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\obj\Debug\net8.0\Atividade1Orientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\obj\Debug\net8.0\Atividade1Orientacao.AssemblyInfoInputs.cache
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\obj\Debug\net8.0\Atividade1Orientacao.AssemblyInfo.cs
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\obj\Debug\net8.0\Atividade1Orientacao.csproj.CoreCompileInputs.cache
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\obj\Debug\net8.0\Atividade1Orientacao.sourcelink.json
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\bin\Debug\net8.0\Atividade1Orientacao.exe
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\bin\Debug\net8.0\Atividade1Orientacao.deps.json
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\bin\Debug\net8.0\Atividade1Orientacao.runtimeconfig.json
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\bin\Debug\net8.0\Atividade1Orientacao.dll
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\bin\Debug\net8.0\Atividade1Orientacao.pdb
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\obj\Debug\net8.0\Atividade1Orientacao.dll
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\obj\Debug\net8.0\refint\Atividade1Orientacao.dll
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\obj\Debug\net8.0\Atividade1Orientacao.pdb
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\obj\Debug\net8.0\Atividade1Orientacao.genruntimeconfig.cache
+C:\Users\cauec\source\repos\Atividade1Orientacao\Atividade1Orientacao\obj\Debug\net8.0\ref\Atividade1Orientacao.dll
