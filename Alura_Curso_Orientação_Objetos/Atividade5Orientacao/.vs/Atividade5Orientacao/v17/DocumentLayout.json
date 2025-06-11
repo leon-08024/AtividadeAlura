@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cauec\\source\\repos\\Atividade5Orientacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5966F57F-D2BA-40A5-AE3A-33BCF334E0A2}|Atividade5Orientacao\\Atividade5Orientacao.csproj|c:\\users\\cauec\\source\\repos\\atividade5orientacao\\atividade5orientacao\\estoqueproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5966F57F-D2BA-40A5-AE3A-33BCF334E0A2}|Atividade5Orientacao\\Atividade5Orientacao.csproj|solutionrelative:atividade5orientacao\\estoqueproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5966F57F-D2BA-40A5-AE3A-33BCF334E0A2}|Atividade5Orientacao\\Atividade5Orientacao.csproj|c:\\users\\cauec\\source\\repos\\atividade5orientacao\\atividade5orientacao\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5966F57F-D2BA-40A5-AE3A-33BCF334E0A2}|Atividade5Orientacao\\Atividade5Orientacao.csproj|solutionrelative:atividade5orientacao\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5966F57F-D2BA-40A5-AE3A-33BCF334E0A2}|Atividade5Orientacao\\Atividade5Orientacao.csproj|c:\\users\\cauec\\source\\repos\\atividade5orientacao\\atividade5orientacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5966F57F-D2BA-40A5-AE3A-33BCF334E0A2}|Atividade5Orientacao\\Atividade5Orientacao.csproj|solutionrelative:atividade5orientacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstoqueProduto.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Atividade5Orientacao\\Atividade5Orientacao\\EstoqueProduto.cs",
+              "RelativeDocumentMoniker": "Atividade5Orientacao\\EstoqueProduto.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Atividade5Orientacao\\Atividade5Orientacao\\EstoqueProduto.cs",
+              "RelativeToolTip": "Atividade5Orientacao\\EstoqueProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:54:19.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Atividade5Orientacao\\Atividade5Orientacao\\Produto.cs",
+              "RelativeDocumentMoniker": "Atividade5Orientacao\\Produto.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Atividade5Orientacao\\Atividade5Orientacao\\Produto.cs",
+              "RelativeToolTip": "Atividade5Orientacao\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:15:01.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Atividade5Orientacao\\Atividade5Orientacao\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade5Orientacao\\Program.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Atividade5Orientacao\\Atividade5Orientacao\\Program.cs",
+              "RelativeToolTip": "Atividade5Orientacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:13:01.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

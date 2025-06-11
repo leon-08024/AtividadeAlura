@@ -1,0 +1,15 @@
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\obj\Debug\net8.0\Atividae4Orientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\obj\Debug\net8.0\Atividae4Orientacao.AssemblyInfoInputs.cache
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\obj\Debug\net8.0\Atividae4Orientacao.AssemblyInfo.cs
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\obj\Debug\net8.0\Atividae4Orientacao.csproj.CoreCompileInputs.cache
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\obj\Debug\net8.0\Atividae4Orientacao.sourcelink.json
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\bin\Debug\net8.0\Atividae4Orientacao.exe
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\bin\Debug\net8.0\Atividae4Orientacao.deps.json
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\bin\Debug\net8.0\Atividae4Orientacao.runtimeconfig.json
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\bin\Debug\net8.0\Atividae4Orientacao.dll
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\bin\Debug\net8.0\Atividae4Orientacao.pdb
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\obj\Debug\net8.0\Atividae4Orientacao.dll
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\obj\Debug\net8.0\refint\Atividae4Orientacao.dll
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\obj\Debug\net8.0\Atividae4Orientacao.pdb
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\obj\Debug\net8.0\Atividae4Orientacao.genruntimeconfig.cache
+C:\Users\cauec\source\repos\Atividae4Orientacao\Atividae4Orientacao\obj\Debug\net8.0\ref\Atividae4Orientacao.dll

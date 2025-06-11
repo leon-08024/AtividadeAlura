@@ -1,21 +1,25 @@
 ﻿
-Musica musica1 = new Musica();
+Banda strokes = new Banda("The Strokes");
 
-musica1.Nome = "First Love";
-musica1.Artista = "The Maccabees";
-musica1.Duracao = 183;
-musica1.Disponivel = true;
+Album albumDoTheStrokes = new Album("Comedown Machine");
 
-
-
-
-Musica musica2 = new Musica();
-
-musica2.Nome = "Oblivius";
-musica2.Artista = "The Strokes";
-musica2.Duracao = 299;
-musica2.Disponivel = false;
+Musica musica1 = new Musica(strokes, "Partners in Crime")
+{
+    Duracao = 141,
+    Disponivel = true,
+};
 
 
-musica2.ExibirFichaTecnica();
+
+Musica musica2 = new Musica(strokes, "Call it Fate, Call it Karma")
+{
+    Duracao = 144,
+    Disponivel = true,
+};
+
+albumDoTheStrokes.AdicionarMusica(musica1);
+albumDoTheStrokes.AdicionarMusica(musica2);
+strokes.AdicionarAlbum(albumDoTheStrokes);
+strokes.ExibirDiscografia();
 musica1.ExibirFichaTecnica();
+musica2.ExibirFichaTecnica();

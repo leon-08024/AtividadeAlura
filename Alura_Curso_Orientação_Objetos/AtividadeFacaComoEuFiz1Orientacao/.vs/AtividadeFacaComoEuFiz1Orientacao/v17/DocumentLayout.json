@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cauec\\source\\repos\\AtividadeFacaComoEuFiz1Orientacao\\",
+  "WorkspaceRootPath": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\AtividadeFacaComoEuFiz1Orientacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9A902DE-9E8E-4EED-812C-26117CA2F0D3}|AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj|c:\\users\\cauec\\source\\repos\\atividadefacacomoeufiz1orientacao\\atividadefacacomoeufiz1orientacao\\musicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9A902DE-9E8E-4EED-812C-26117CA2F0D3}|AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj|c:\\users\\cauec\\source\\repos\\alura_curso_orienta\u00E7\u00E3o_objetos\\atividadefacacomoeufiz1orientacao\\atividadefacacomoeufiz1orientacao\\musicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9A902DE-9E8E-4EED-812C-26117CA2F0D3}|AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj|solutionrelative:atividadefacacomoeufiz1orientacao\\musicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9A902DE-9E8E-4EED-812C-26117CA2F0D3}|AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj|c:\\users\\cauec\\source\\repos\\atividadefacacomoeufiz1orientacao\\atividadefacacomoeufiz1orientacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9A902DE-9E8E-4EED-812C-26117CA2F0D3}|AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj|c:\\users\\cauec\\source\\repos\\alura_curso_orienta\u00E7\u00E3o_objetos\\atividadefacacomoeufiz1orientacao\\atividadefacacomoeufiz1orientacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9A902DE-9E8E-4EED-812C-26117CA2F0D3}|AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj|solutionrelative:atividadefacacomoeufiz1orientacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Musicas.cs",
-              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\Musicas.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\Musicas.cs",
               "RelativeDocumentMoniker": "AtividadeFacaComoEuFiz1Orientacao\\Musicas.cs",
-              "ToolTip": "C:\\Users\\cauec\\source\\repos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\Musicas.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\Musicas.cs",
               "RelativeToolTip": "AtividadeFacaComoEuFiz1Orientacao\\Musicas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA8wA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T20:45:06.191Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\Program.cs",
               "RelativeDocumentMoniker": "AtividadeFacaComoEuFiz1Orientacao\\Program.cs",
-              "ToolTip": "C:\\Users\\cauec\\source\\repos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\Program.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\Program.cs",
               "RelativeToolTip": "AtividadeFacaComoEuFiz1Orientacao\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtividadeFacaComoEuFiz1Orientacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3f3b6f00258fb08fd573534acdbbca697b516e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea9ef260d3fe2e1097477223a9efee21ce5fec79")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtividadeFacaComoEuFiz1Orientacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtividadeFacaComoEuFiz1Orientacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

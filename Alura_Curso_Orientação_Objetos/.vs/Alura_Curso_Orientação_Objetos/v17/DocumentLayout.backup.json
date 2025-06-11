@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\Atividade2Orientacao\\Atividade2Orientacao\\Carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Atividade2Orientacao\\Atividade2Orientacao\\Carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\Projeto2AluraOrientacaoObjetos\\Projeto2AluraOrientacaoObjetos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projeto2AluraOrientacaoObjetos\\Projeto2AluraOrientacaoObjetos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\Atividade2Orientacao\\Atividade2Orientacao\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Atividade2Orientacao\\Atividade2Orientacao\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\Projeto2AluraOrientacaoObjetos\\Projeto2AluraOrientacaoObjetos\\Musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projeto2AluraOrientacaoObjetos\\Projeto2AluraOrientacaoObjetos\\Musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 225,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Carros.cs",
-              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\Atividade2Orientacao\\Atividade2Orientacao\\Carros.cs",
-              "RelativeDocumentMoniker": "Atividade2Orientacao\\Atividade2Orientacao\\Carros.cs",
-              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\Atividade2Orientacao\\Atividade2Orientacao\\Carros.cs",
-              "RelativeToolTip": "Atividade2Orientacao\\Atividade2Orientacao\\Carros.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\Projeto2AluraOrientacaoObjetos\\Projeto2AluraOrientacaoObjetos\\Musica.cs",
+              "RelativeDocumentMoniker": "Projeto2AluraOrientacaoObjetos\\Projeto2AluraOrientacaoObjetos\\Musica.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\Projeto2AluraOrientacaoObjetos\\Projeto2AluraOrientacaoObjetos\\Musica.cs",
+              "RelativeToolTip": "Projeto2AluraOrientacaoObjetos\\Projeto2AluraOrientacaoObjetos\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T21:59:22.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T21:31:18.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\Atividade2Orientacao\\Atividade2Orientacao\\Program.cs",
-              "RelativeDocumentMoniker": "Atividade2Orientacao\\Atividade2Orientacao\\Program.cs",
-              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\Atividade2Orientacao\\Atividade2Orientacao\\Program.cs",
-              "RelativeToolTip": "Atividade2Orientacao\\Atividade2Orientacao\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\Projeto2AluraOrientacaoObjetos\\Projeto2AluraOrientacaoObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto2AluraOrientacaoObjetos\\Projeto2AluraOrientacaoObjetos\\Program.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orienta\u00E7\u00E3o_Objetos\\Projeto2AluraOrientacaoObjetos\\Projeto2AluraOrientacaoObjetos\\Program.cs",
+              "RelativeToolTip": "Projeto2AluraOrientacaoObjetos\\Projeto2AluraOrientacaoObjetos\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T22:04:18.527Z",
+              "WhenOpened": "2025-06-05T21:31:15.317Z",
               "EditorCaption": ""
             }
           ]

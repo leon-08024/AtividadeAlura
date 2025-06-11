@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cauec\\source\\repos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj": {}
+    "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orientação_Objetos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cauec\\source\\repos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj": {
+    "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orientação_Objetos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cauec\\source\\repos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj",
+        "projectUniqueName": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orientação_Objetos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj",
         "projectName": "AtividadeFacaComoEuFiz1Orientacao",
-        "projectPath": "C:\\Users\\cauec\\source\\repos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj",
+        "projectPath": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orientação_Objetos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao.csproj",
         "packagesPath": "C:\\Users\\cauec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cauec\\source\\repos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\obj\\",
+        "outputPath": "C:\\Users\\cauec\\source\\repos\\Alura_Curso_Orientação_Objetos\\AtividadeFacaComoEuFiz1Orientacao\\AtividadeFacaComoEuFiz1Orientacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cauec\\source\\repos\\Atividade8Orientacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51918081-E160-4990-B8C8-D967F71CC14A}|Atividade8Orientacao\\Atividade8Orientacao.csproj|c:\\users\\cauec\\source\\repos\\atividade8orientacao\\atividade8orientacao\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51918081-E160-4990-B8C8-D967F71CC14A}|Atividade8Orientacao\\Atividade8Orientacao.csproj|solutionrelative:atividade8orientacao\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51918081-E160-4990-B8C8-D967F71CC14A}|Atividade8Orientacao\\Atividade8Orientacao.csproj|c:\\users\\cauec\\source\\repos\\atividade8orientacao\\atividade8orientacao\\titular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51918081-E160-4990-B8C8-D967F71CC14A}|Atividade8Orientacao\\Atividade8Orientacao.csproj|solutionrelative:atividade8orientacao\\titular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51918081-E160-4990-B8C8-D967F71CC14A}|Atividade8Orientacao\\Atividade8Orientacao.csproj|c:\\users\\cauec\\source\\repos\\atividade8orientacao\\atividade8orientacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51918081-E160-4990-B8C8-D967F71CC14A}|Atividade8Orientacao\\Atividade8Orientacao.csproj|solutionrelative:atividade8orientacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Titular.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Atividade8Orientacao\\Atividade8Orientacao\\Titular.cs",
+              "RelativeDocumentMoniker": "Atividade8Orientacao\\Titular.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Atividade8Orientacao\\Atividade8Orientacao\\Titular.cs",
+              "RelativeToolTip": "Atividade8Orientacao\\Titular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:38:21.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Atividade8Orientacao\\Atividade8Orientacao\\Conta.cs",
+              "RelativeDocumentMoniker": "Atividade8Orientacao\\Conta.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Atividade8Orientacao\\Atividade8Orientacao\\Conta.cs",
+              "RelativeToolTip": "Atividade8Orientacao\\Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:09:01.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Atividade8Orientacao\\Atividade8Orientacao\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade8Orientacao\\Program.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Atividade8Orientacao\\Atividade8Orientacao\\Program.cs",
+              "RelativeToolTip": "Atividade8Orientacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:55:53.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
