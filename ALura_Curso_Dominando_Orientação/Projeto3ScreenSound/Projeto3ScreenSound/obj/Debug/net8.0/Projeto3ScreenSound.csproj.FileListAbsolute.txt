@@ -1,0 +1,15 @@
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\bin\Debug\net8.0\Projeto3ScreenSound.exe
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\bin\Debug\net8.0\Projeto3ScreenSound.deps.json
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\bin\Debug\net8.0\Projeto3ScreenSound.runtimeconfig.json
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\bin\Debug\net8.0\Projeto3ScreenSound.dll
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\bin\Debug\net8.0\Projeto3ScreenSound.pdb
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\obj\Debug\net8.0\Projeto3ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\obj\Debug\net8.0\Projeto3ScreenSound.AssemblyInfoInputs.cache
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\obj\Debug\net8.0\Projeto3ScreenSound.AssemblyInfo.cs
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\obj\Debug\net8.0\Projeto3ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\obj\Debug\net8.0\Projeto3ScreenSound.sourcelink.json
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\obj\Debug\net8.0\Projeto3ScreenSound.dll
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\obj\Debug\net8.0\refint\Projeto3ScreenSound.dll
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\obj\Debug\net8.0\Projeto3ScreenSound.pdb
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\obj\Debug\net8.0\Projeto3ScreenSound.genruntimeconfig.cache
+C:\Users\cauec\source\repos\Projeto3ScreenSound\Projeto3ScreenSound\obj\Debug\net8.0\ref\Projeto3ScreenSound.dll

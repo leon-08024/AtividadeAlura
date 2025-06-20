@@ -1,0 +1,15 @@
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\bin\Debug\net8.0\Atividade1Orientacao2.exe
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\bin\Debug\net8.0\Atividade1Orientacao2.deps.json
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\bin\Debug\net8.0\Atividade1Orientacao2.runtimeconfig.json
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\bin\Debug\net8.0\Atividade1Orientacao2.dll
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\bin\Debug\net8.0\Atividade1Orientacao2.pdb
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\obj\Debug\net8.0\Atividade1Orientacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\obj\Debug\net8.0\Atividade1Orientacao2.AssemblyInfoInputs.cache
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\obj\Debug\net8.0\Atividade1Orientacao2.AssemblyInfo.cs
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\obj\Debug\net8.0\Atividade1Orientacao2.csproj.CoreCompileInputs.cache
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\obj\Debug\net8.0\Atividade1Orientacao2.sourcelink.json
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\obj\Debug\net8.0\Atividade1Orientacao2.dll
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\obj\Debug\net8.0\refint\Atividade1Orientacao2.dll
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\obj\Debug\net8.0\Atividade1Orientacao2.pdb
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\obj\Debug\net8.0\Atividade1Orientacao2.genruntimeconfig.cache
+C:\Users\cauec\source\repos\Atividade1Orientacao2\Atividade1Orientacao2\obj\Debug\net8.0\ref\Atividade1Orientacao2.dll

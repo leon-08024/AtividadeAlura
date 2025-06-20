@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projeto2AluraOrientacaoObjetos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea9ef260d3fe2e1097477223a9efee21ce5fec79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+970c1610c54ad416314d0e3d36a395b76dbd4bf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projeto2AluraOrientacaoObjetos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projeto2AluraOrientacaoObjetos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

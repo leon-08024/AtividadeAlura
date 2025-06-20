@@ -1,25 +1,18 @@
-﻿
-Banda strokes = new Banda("The Strokes");
+﻿Episodio ep1 = new(100, 1, "Podcast ai meu");
+ep1.AdicionarConvidados("jorginho");
+ep1.AdicionarConvidados("Kleberson");
 
-Album albumDoTheStrokes = new Album("Comedown Machine");
+Console.WriteLine(ep1.Resumo);
 
-Musica musica1 = new Musica(strokes, "Partners in Crime")
-{
-    Duracao = 141,
-    Disponivel = true,
-};
+Episodio ep2 = new(102, 2, "Podcast ai meu2");
+ep2.AdicionarConvidados("jorginho");
+ep2.AdicionarConvidados("Kleberson");
+ep2.AdicionarConvidados("Marcio");
+
+Console.WriteLine(ep2.Resumo);
 
 
-
-Musica musica2 = new Musica(strokes, "Call it Fate, Call it Karma")
-{
-    Duracao = 144,
-    Disponivel = true,
-};
-
-albumDoTheStrokes.AdicionarMusica(musica1);
-albumDoTheStrokes.AdicionarMusica(musica2);
-strokes.AdicionarAlbum(albumDoTheStrokes);
-strokes.ExibirDiscografia();
-musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
+PodCast podCast = new("Arquelau", "PodAlgumaCoisa");
+podCast.AdicionarEpisodio(ep1);
+podCast.AdicionarEpisodio(ep2);
+podCast.ExibirDetalhes();
