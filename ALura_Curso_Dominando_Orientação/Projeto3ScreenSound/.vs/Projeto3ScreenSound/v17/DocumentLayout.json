@@ -7,28 +7,8 @@
       "RelativeMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|solutionrelative:projeto3screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|c:\\users\\cauec\\source\\repos\\projeto3screensound\\projeto3screensound\\novapasta\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|solutionrelative:projeto3screensound\\novapasta\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|c:\\users\\cauec\\source\\repos\\projeto3screensound\\projeto3screensound\\novapasta\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|solutionrelative:projeto3screensound\\novapasta\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|c:\\users\\cauec\\source\\repos\\projeto3screensound\\projeto3screensound\\novapasta\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|solutionrelative:projeto3screensound\\novapasta\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|c:\\users\\cauec\\source\\repos\\projeto3screensound\\projeto3screensound\\novapasta\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|solutionrelative:projeto3screensound\\novapasta\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|c:\\users\\cauec\\source\\repos\\projeto3screensound\\projeto3screensound\\novapasta\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|solutionrelative:projeto3screensound\\novapasta\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|c:\\users\\cauec\\source\\repos\\projeto3screensound\\projeto3screensound\\novapasta\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|solutionrelative:projeto3screensound\\novapasta\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|c:\\users\\cauec\\source\\repos\\projeto3screensound\\projeto3screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|solutionrelative:projeto3screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,19 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Banda.cs",
-              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\NovaPasta\\Banda.cs",
-              "RelativeDocumentMoniker": "Projeto3ScreenSound\\NovaPasta\\Banda.cs",
-              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\NovaPasta\\Banda.cs",
-              "RelativeToolTip": "Projeto3ScreenSound\\NovaPasta\\Banda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto3ScreenSound\\Program.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\Program.cs",
+              "RelativeToolTip": "Projeto3ScreenSound\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:10:25.781Z",
+              "WhenOpened": "2025-06-13T18:17:31.784Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -60,80 +40,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Musica.cs",
-              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\NovaPasta\\Musica.cs",
-              "RelativeDocumentMoniker": "Projeto3ScreenSound\\NovaPasta\\Musica.cs",
-              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\NovaPasta\\Musica.cs",
-              "RelativeToolTip": "Projeto3ScreenSound\\NovaPasta\\Musica.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAywAEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\Menus\\Menu.cs",
+              "RelativeDocumentMoniker": "Projeto3ScreenSound\\Menus\\Menu.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\Menus\\Menu.cs",
+              "RelativeToolTip": "Projeto3ScreenSound\\Menus\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:10:15.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Podcast.cs",
-              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\NovaPasta\\Podcast.cs",
-              "RelativeDocumentMoniker": "Projeto3ScreenSound\\NovaPasta\\Podcast.cs",
-              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\NovaPasta\\Podcast.cs",
-              "RelativeToolTip": "Projeto3ScreenSound\\NovaPasta\\Podcast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:09:39.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Album.cs",
-              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\NovaPasta\\Album.cs",
-              "RelativeDocumentMoniker": "Projeto3ScreenSound\\NovaPasta\\Album.cs",
-              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\NovaPasta\\Album.cs",
-              "RelativeToolTip": "Projeto3ScreenSound\\NovaPasta\\Album.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T19:03:45.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Genero.cs",
-              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\NovaPasta\\Genero.cs",
-              "RelativeDocumentMoniker": "Projeto3ScreenSound\\NovaPasta\\Genero.cs",
-              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\NovaPasta\\Genero.cs",
-              "RelativeToolTip": "Projeto3ScreenSound\\NovaPasta\\Genero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T18:19:31.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Episodio.cs",
-              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\NovaPasta\\Episodio.cs",
-              "RelativeDocumentMoniker": "Projeto3ScreenSound\\NovaPasta\\Episodio.cs",
-              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\NovaPasta\\Episodio.cs",
-              "RelativeToolTip": "Projeto3ScreenSound\\NovaPasta\\Episodio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T18:19:30.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\Program.cs",
-              "RelativeDocumentMoniker": "Projeto3ScreenSound\\Program.cs",
-              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\Program.cs",
-              "RelativeToolTip": "Projeto3ScreenSound\\Program.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAowG8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T18:17:31.784Z",
+              "WhenOpened": "2025-06-25T18:46:22.819Z",
               "EditorCaption": ""
             }
           ]
