@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|c:\\users\\cauec\\source\\repos\\projeto3screensound\\projeto3screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|solutionrelative:projeto3screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|c:\\users\\cauec\\source\\repos\\projeto3screensound\\projeto3screensound\\menus\\menusaiu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|solutionrelative:projeto3screensound\\menus\\menusaiu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|c:\\users\\cauec\\source\\repos\\projeto3screensound\\projeto3screensound\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|solutionrelative:projeto3screensound\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|c:\\users\\cauec\\source\\repos\\projeto3screensound\\projeto3screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|solutionrelative:projeto3screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|c:\\users\\cauec\\source\\repos\\projeto3screensound\\projeto3screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1262F-3F7B-4944-9209-E01E17DC102C}|Projeto3ScreenSound\\Projeto3ScreenSound.csproj|solutionrelative:projeto3screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,20 +26,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\Program.cs",
               "RelativeDocumentMoniker": "Projeto3ScreenSound\\Program.cs",
               "ToolTip": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\Program.cs",
               "RelativeToolTip": "Projeto3ScreenSound\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswDUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T18:17:31.784Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuSaiu.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\Menus\\MenuSaiu.cs",
+              "RelativeDocumentMoniker": "Projeto3ScreenSound\\Menus\\MenuSaiu.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\Menus\\MenuSaiu.cs",
+              "RelativeToolTip": "Projeto3ScreenSound\\Menus\\MenuSaiu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:01:40.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuAvaliarBanda.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "RelativeDocumentMoniker": "Projeto3ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "RelativeToolTip": "Projeto3ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:01:28.813Z",
               "EditorCaption": ""
             },
             {
@@ -40,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Projeto3ScreenSound\\Projeto3ScreenSound\\Menus\\Menu.cs",
               "RelativeDocumentMoniker": "Projeto3ScreenSound\\Menus\\Menu.cs",

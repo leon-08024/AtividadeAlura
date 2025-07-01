@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cauec\\source\\repos\\Atividade3Orientacao2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{830727D8-9C27-4B3B-A3BB-D5B560635846}|Atividade3Orientacao2\\Atividade3Orientacao2.csproj|c:\\users\\cauec\\source\\repos\\atividade3orientacao2\\atividade3orientacao2\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830727D8-9C27-4B3B-A3BB-D5B560635846}|Atividade3Orientacao2\\Atividade3Orientacao2.csproj|solutionrelative:atividade3orientacao2\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830727D8-9C27-4B3B-A3BB-D5B560635846}|Atividade3Orientacao2\\Atividade3Orientacao2.csproj|c:\\users\\cauec\\source\\repos\\atividade3orientacao2\\atividade3orientacao2\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830727D8-9C27-4B3B-A3BB-D5B560635846}|Atividade3Orientacao2\\Atividade3Orientacao2.csproj|solutionrelative:atividade3orientacao2\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830727D8-9C27-4B3B-A3BB-D5B560635846}|Atividade3Orientacao2\\Atividade3Orientacao2.csproj|c:\\users\\cauec\\source\\repos\\atividade3orientacao2\\atividade3orientacao2\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830727D8-9C27-4B3B-A3BB-D5B560635846}|Atividade3Orientacao2\\Atividade3Orientacao2.csproj|solutionrelative:atividade3orientacao2\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830727D8-9C27-4B3B-A3BB-D5B560635846}|Atividade3Orientacao2\\Atividade3Orientacao2.csproj|c:\\users\\cauec\\source\\repos\\atividade3orientacao2\\atividade3orientacao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830727D8-9C27-4B3B-A3BB-D5B560635846}|Atividade3Orientacao2\\Atividade3Orientacao2.csproj|solutionrelative:atividade3orientacao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Atividade3Orientacao2\\Atividade3Orientacao2\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "Atividade3Orientacao2\\ContaPoupanca.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Atividade3Orientacao2\\Atividade3Orientacao2\\ContaPoupanca.cs",
+              "RelativeToolTip": "Atividade3Orientacao2\\ContaPoupanca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:12:30.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Atividade3Orientacao2\\Atividade3Orientacao2\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "Atividade3Orientacao2\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Atividade3Orientacao2\\Atividade3Orientacao2\\ContaCorrente.cs",
+              "RelativeToolTip": "Atividade3Orientacao2\\ContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:10:11.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Atividade3Orientacao2\\Atividade3Orientacao2\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Atividade3Orientacao2\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Atividade3Orientacao2\\Atividade3Orientacao2\\ContaBancaria.cs",
+              "RelativeToolTip": "Atividade3Orientacao2\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:06:46.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauec\\source\\repos\\Atividade3Orientacao2\\Atividade3Orientacao2\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade3Orientacao2\\Program.cs",
+              "ToolTip": "C:\\Users\\cauec\\source\\repos\\Atividade3Orientacao2\\Atividade3Orientacao2\\Program.cs",
+              "RelativeToolTip": "Atividade3Orientacao2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T19:05:57.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
