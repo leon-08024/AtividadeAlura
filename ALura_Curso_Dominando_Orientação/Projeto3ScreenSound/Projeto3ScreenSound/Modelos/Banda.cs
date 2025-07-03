@@ -1,6 +1,8 @@
-﻿namespace Screensound.Modelos;
+﻿using Projeto3ScreenSound;
 
-internal class Banda
+namespace Screensound.Modelos;
+
+internal class Banda : Iavalizvel
 {
     private List<Album> albuns = new List<Album>();
     private List<Avaliacao> notas = new List<Avaliacao>();

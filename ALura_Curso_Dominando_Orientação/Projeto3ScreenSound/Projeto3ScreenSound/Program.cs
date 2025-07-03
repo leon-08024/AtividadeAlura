@@ -18,7 +18,8 @@ opcoes.Add(1, new MenuRegistrarUmaBanda());
 opcoes.Add(2, new MenuRegistrarAlbum());
 opcoes.Add(3, new MenuMostrarBandasRegistradas());
 opcoes.Add(4, new MenuAvaliarBanda());
-opcoes.Add(5, new MenuExibirDetalhes());
+opcoes.Add(5, new MenuAvaLiarAlbum());
+opcoes.Add(6, new MenuExibirDetalhes());
 opcoes.Add(-1, new MenuSaiu());
 
 
@@ -45,7 +46,8 @@ void ExibirLogo()
     Console.WriteLine("       Digite 2 para registrar o álbum de uma banda");
     Console.WriteLine("       Digite 3 para mostrar todas as bandas");
     Console.WriteLine("       Digite 4 para avaliar uma banda");
-    Console.WriteLine("       Digite 5 para exibir os detalhes de uma banda");
+    Console.WriteLine("       Digite 5 para avaliar um album de uma banda");
+    Console.WriteLine("       Digite 6 para exibir os detalhes de uma banda");
     Console.WriteLine("       Digite -1 para sair");
 
     Console.Write("\n       Digite a sua opção: ");

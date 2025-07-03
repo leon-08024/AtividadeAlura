@@ -1,10 +1,13 @@
-﻿namespace Screensound.Modelos;
+﻿using Projeto3ScreenSound;
 
-internal class Album
+namespace Screensound.Modelos;
+
+internal class Album : Iavalizvel
 {
     private List<Musica> musicas = new List<Musica>();
+    private List<Avaliacao> notas = new List<Avaliacao>();
 
-    public Album(string nome)
+public Album(string nome)
     {
         Nome = nome;
     }
@@ -13,9 +16,28 @@ internal class Album
     public int DuracaoTotal => musicas.Sum(m => m.Duracao);
     public List<Musica> Musicas => musicas;
 
+    public double Media
+    {
+        get
+        {
+            //if (notas.Count == 0) ;
+            //else return notas.Average(  a => a.Nota);
+            if (notas == null || notas.Count == 0)
+            {
+                return 0.0; 
+            }
+            return notas.Average(a => a.Nota);
+        }
+    }
+
     public void AdicionarMusica(Musica musica)
     {
         musicas.Add(musica);
+    }
+
+    public void AdicionarNota(Avaliacao nota)
+    {
+        notas.Add(nota);
     }
 
     public void ExibirMusicasDoAlbum()
