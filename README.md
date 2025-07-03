@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/leon-08024/AtividadeAlura)
 ![GitHub top language](https://img.shields.io/github/languages/top/leon-08024/AtividadeAlura)
 ![GitHub last commit](https://img.shields.io/github/last-commit/leon-08024/AtividadeAlura)
-![.NET](https://img.shields.io/badge/.NET-6.0-blue)
+![.NET](https://img.shields.io/badge/.NET-8.0-blue)
 ![License](https://img.shields.io/badge/license-Educacional-lightgrey)
 
 Repositório dedicado às atividades realizadas durante os cursos da [Alura](https://www.alura.com.br/) com foco em C#.
