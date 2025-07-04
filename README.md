@@ -1,4 +1,6 @@
-# AtividadeAlura
+# Atividades Alura 
+
+## d=====(￣▽￣*)b
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/leon-08024/AtividadeAlura)
 ![GitHub language count](https://img.shields.io/github/languages/count/leon-08024/AtividadeAlura)
@@ -9,15 +11,15 @@
 
 Repositório dedicado às atividades realizadas durante os cursos da [Alura](https://www.alura.com.br/) com foco em C#.
 
-## Sobre
+## Sobre 
 
-Este repositório contém exercícios, projetos e tarefas desenvolvidas como parte dos estudos de C#. O objetivo é acompanhar o aprendizado e servir como referência para futuras consultas.
+Este repositório contém exercícios, projetos e tarefas desenvolvidas sendo parte dos estudos de C#. O objetivo é acompanhar o aprendizado e servir como referência para futuras consultas.
 
-## Estrutura
+## Estrutura 
 
-Os arquivos estão organizados por módulos, cursos ou temas abordados nas aulas da Alura. Cada pasta ou arquivo representa uma atividade diferente.
+Os arquivos estão organizados por cursos da Alura. Cada arquivo representa uma atividade diferente ou projeto.
 
-## Como Executar
+## Como Executar 
 
 1. Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/download) instalado na sua máquina.
 2. Clone este repositório:
@@ -29,3 +31,7 @@ Os arquivos estão organizados por módulos, cursos ou temas abordados nas aulas
 ## Licença
 
 Este repositório é destinado apenas para fins educacionais.
+
+
+
+# ヾ(￣▽￣) Bye~Bye~
